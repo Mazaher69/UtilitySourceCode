@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "j70MA9OA8MujNyPCWY9KKJLhonq4nQSl529QtOn3SPtU1aJnvsNZgR+U8LDNhoiwtBax1eTiEwTDgCUQnJ60Rg==",
+  "success": true,
+  "projectFilePath": "D:\\Masoumi\\Source\\WithoutTataGit\\API\\UtilitySourceCode\\API\\Refit_client _library\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masoumi.m\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\masoumi.m\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\masoumi.m\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\masoumi.m\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\masoumi.m\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
